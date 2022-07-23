@@ -1,0 +1,10 @@
+D:\NP SEM2\Prg\Asg\PRG2_T06_Team05\prg2assignment\prg2assignment\bin\Release\prg2assignment.exe.config
+D:\NP SEM2\Prg\Asg\PRG2_T06_Team05\prg2assignment\prg2assignment\bin\Release\prg2assignment.exe
+D:\NP SEM2\Prg\Asg\PRG2_T06_Team05\prg2assignment\prg2assignment\bin\Release\prg2assignment.pdb
+D:\NP SEM2\Prg\Asg\PRG2_T06_Team05\prg2assignment\prg2assignment\bin\Release\Newtonsoft.Json.dll
+D:\NP SEM2\Prg\Asg\PRG2_T06_Team05\prg2assignment\prg2assignment\bin\Release\Newtonsoft.Json.xml
+D:\NP SEM2\Prg\Asg\PRG2_T06_Team05\prg2assignment\prg2assignment\obj\Release\prg2assignment.csprojAssemblyReference.cache
+D:\NP SEM2\Prg\Asg\PRG2_T06_Team05\prg2assignment\prg2assignment\obj\Release\prg2assignment.csproj.CoreCompileInputs.cache
+D:\NP SEM2\Prg\Asg\PRG2_T06_Team05\prg2assignment\prg2assignment\obj\Release\prg2assignment.csproj.CopyComplete
+D:\NP SEM2\Prg\Asg\PRG2_T06_Team05\prg2assignment\prg2assignment\obj\Release\prg2assignment.exe
+D:\NP SEM2\Prg\Asg\PRG2_T06_Team05\prg2assignment\prg2assignment\obj\Release\prg2assignment.pdb
